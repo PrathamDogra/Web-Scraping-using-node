@@ -1,12 +1,12 @@
 {
   "name": "webscraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web Scraping",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pratham Dogra",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
